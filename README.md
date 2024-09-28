@@ -892,3 +892,6 @@ The inability to properly lower `gpu.launch_func` is particularly vexing. I'm ke
    - Beyond posting your queries, the forum houses a wealth of questions and answers from fellow learners. Personally, I often found it more practical to search for discussions addressing similar issues rather than posting new questions.
 
 These resources proved helpful in my journey to understand and implement MLIR concepts, particularly in the context of GPU execution and lowering strategies.
+
+> [!WARNING]  
+> Study notes! For educational purposes only!
